@@ -1,1 +1,3 @@
-pwd
+
+#!/bin/bash
+pwd should print current working directory
